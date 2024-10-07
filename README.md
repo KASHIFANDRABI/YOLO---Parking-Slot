@@ -3,12 +3,14 @@ This project uses YOLOv5 for parking space detection, trained on a custom datase
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-Built
+Build:
 This section should list any major frameworks that you built your project using. Here are a few examples.
 
   1)YOLOv5.
   2)pytorch.
   3)RoboFlow Annotate (Data Preparation & Labelling).
+
+
 
 Prerequisites:
 These libraries are needed for to run this project locally.
