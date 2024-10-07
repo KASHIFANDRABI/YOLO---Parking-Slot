@@ -5,9 +5,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 Built With
 This section should list any major frameworks that you built your project using. Here are a few examples.
-YOLOv5
-pytorch
-RoboFlow Annotate (Data Preparation & Labelling)
+1)YOLOv5.
+2)pytorch.
+3)RoboFlow Annotate (Data Preparation & Labelling).
 
 Prerequisites:
 These libraries are needed for to run this project locally.
