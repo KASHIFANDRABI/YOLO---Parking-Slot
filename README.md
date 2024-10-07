@@ -5,7 +5,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 Built With
 This section should list any major frameworks that you built your project using. Here are a few examples.
-
 YOLOv5
 pytorch
 RoboFlow Annotate (Data Preparation & Labelling)
