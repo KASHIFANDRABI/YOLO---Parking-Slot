@@ -13,7 +13,7 @@ get_ipython().system('git reset --hard 064365d8683fd002e9ad789c1e91fa3d021b44f0'
 # In[ ]:
 
 
-# install dependencies as necessary
+# install dependencies as necessary from requirements.txt file
 get_ipython().system('pip install -qr requirements.txt  # install dependencies')
 import torch
 
