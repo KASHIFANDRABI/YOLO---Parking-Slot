@@ -18,8 +18,8 @@ Core Libraries:
 2) YOLOv5 - The main repository and framework used for object detection. It is built on top of PyTorch.
 3) OpenCV (cv2) - Used for image and video processing, including reading frames, drawing bounding boxes, and displaying results.
 4) NumPy (numpy) - Provides support for numerical operations and array manipulations, commonly used for handling image data.
-5) Matplotlib/Seaborn (matplotlib) - Used for visualizing training progress and performance metrics like loss and accuracy.
-6) Tensorboard - Used for tracking and visualizing training performance (loss, mAP, etc.).
+5) Matplotlib - Used for visualizing training progress and performance metrics like loss and accuracy.
+6) Glob - It helps in getting a list of files in a directory that match the given pattern.
 
 Procedure
   1) Get Dataset from Roboflow - Use this link to get dataset for the model. [Click Here](https://universe.roboflow.com/muhammad-syihab-bdynf/parking-space-ipm1b/dataset/4)
